@@ -1,39 +1,87 @@
+<h1 align="left">Hey 👋 What's up I am Ayush Singh Rajput...</h1>
 
+###
 
+<p align="center">As a passionate AI student with a keen interest in machine learning and artificial intelligence, I am eager to leverage my strong foundation in AI principles and methodologies to contribute to innovative projects in the field. Seeking an opportunity where I can apply my analytical skills and enthusiasm for learning to make meaningful contributions to a dynamic team. Excited to further develop my knowledge and expertise in a collaborative environment dedicated to advancing AI technologies."</p>
 
-<h1 align="center">Hi 👋, I'm Ayush Singh Rajput</h1>
-<h3 align="center">🌐 "Mastering the Future: Unleashing Passion in Robotic Engineering" | Web Developer | Python Enthusiast 📚 First-year student on a coding journey with a focus on C, Web Development, and Python. 🚀</h3>
+###
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+</div>
 
+###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushsinghrajput1299&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsinghrajput1299" /> </p>
+<br clear="both">
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/ayushrajput1366" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/ayushrajput1366?logo=twitter&style=for-the-badge" alt="https://twitter.com/ayushrajput1366" /></a> </p>
+<img align="right" height="200" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
 
-- 🌱 I’m currently learning **🐍 Currently honing Python skills for future projects.**
+###
 
-- 👨‍💻 All of my projects are available at [https://github.com/AyushSinghRajput1366?tab=repositories](https://github.com/AyushSinghRajput1366?tab=repositories)
+<p align="left">✨ Creating bugs since ...2021<br>📚 Currently honing Machine Learning skills for future projects.<br>🎯 Goals: Passionate about AI, ML, deep learning, and NLP,<br>Driving innovation in robotics, shaping the future we see.<br>With hands-on experience and continuous learning spree,<br>I aim to lead, contribute, and make technology set free."<br><br><br><br>🎲 Fun fact: ...When I'm not coding or studying, you'll often find me experimenting with new recipes in the kitchen. <br>My latest culinary adventure? AI-generated recipe combinations!"</p>
 
-- 💬 Ask me about **Problem Solving**
+###
 
-- 📫 How to reach me **https://www.linkedin.com/in/ayush-singh-rajput-407aa4263/**
+<div align="left">
+  <a href="https://www.linkedin.com/in/ayush-singh-rajput1366/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/ayushrajput1366?t=7EXxFqbkNt9KIkZtAzwfKQ&s=09" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="twitter logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/ayushthakur2281" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="hackerrank logo"  />
+  </a>
+  <a href="https://www.instagram.com/ayush_rajput1299?igsh=NzN6YXlvcnBtMDJ2" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="instagram logo"  />
+  </a>
+</div>
 
-- ⚡ Fun fact **I can solve a Rubik's Cube in under [insert time]! Coding challenges aren't the only puzzles I love tackling. 🧩✨**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/ayushrajput1366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ayushrajput1366" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-singh-rajput-407aa4263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-singh-rajput-407aa4263/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ayush_rathod1299/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ayush_rathod1299/?hl=en" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerrank.com/profile/ayushthakur2281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/ayushthakur2281" height="30" width="40" /></a>
-</p>
+<h2 align="left">About me</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushsinghrajput1299&show_icons=true&locale=en&layout=compact" alt="ayushsinghrajput1299" /></p>
+<h2 align="left">I code with</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushsinghrajput1299&show_icons=true&locale=en" alt="ayushsinghrajput1299" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsinghrajput1299&" alt="ayushsinghrajput1299" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushSinghRajput1366&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyushSinghRajput1366&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/AyushSinghRajput1366/AyushSinghRajput1366/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AyushSinghRajput1366/count.svg?"  />
+</div>
+
+###
